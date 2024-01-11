@@ -8,6 +8,14 @@ Features
     Create Event: Allows users to create new events with details like title, description, start and end times, attendees, and the attending doctor.
     Manage Attendees: Provides a form to add and manage attendees for each event.
 
+Currently, the application supports only a weekly view. For testing purposes, please create events that occur in the current week to ensure they appear in the weekly view.
+
+Application Flow
+
+    Create an Event: Start by creating an event with necessary details.
+    Add Attendees: Once an event is created, add attendees specifying their details.
+    Weekly View: The created event, along with its attendees, will be visible in the weekly calendar view.
+
 Getting Started
 Prerequisites
 
